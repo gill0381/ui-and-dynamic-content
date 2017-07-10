@@ -1,5 +1,6 @@
 .wrapper {
-    margin: 0 25rem;
+    max-width: 30rem;
+    margin: auto;
     background-color: #B27044;
     padding: 2rem;
 }
